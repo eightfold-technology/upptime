@@ -12,6 +12,7 @@
 [![Static Site CI](https://github.com/koj-co/upptime/workflows/Static%20Site%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Static+Site+CI%22)
 [![Summary CI](https://github.com/koj-co/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Summary+CI%22)
 
+<<<<<<< HEAD
 ## [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟧 Partial outage**
 
 <!--start: status pages-->
@@ -771,3 +772,6 @@ Four times per day, another workflow runs and records the response time of your 
   <sub>An open source project by <a href="https://koj.co">Koj</a>. <br> <a href="https://koj.co">Furnish your home in style, for as low as CHF175/month →</a></sub>
 </p>
 <!--end: logo-->
+=======
+With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/upptime/upptime/issues) as incident reports, [Actions](https://github.com/upptime/upptime/actions) as uptime monitors, and [Pages](https://demo.upptime.js.org) for the status page.
+>>>>>>> c720412fbe5a4cdba778ae79249b2cbe9aa725ed
