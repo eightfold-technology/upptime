@@ -10,13 +10,25 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Eightfold Technology
+    url: https://eightfold.io
+  - name: Eightfold Cloud
+    url: https://eightfold.cloud
+  - name: Nexsora Strapi
+    url: https://nexsora.eightfold.cloud
+  - name: Raptect Strapi
+    url: https://raptect.eightfold.cloud
+  - name: Nexprotek Strapi
+    url: https://nexprotek.eightfold.cloud
+  - name: Linceo Today
+    url: https://linceo.today
+  - name: Linceo Today Strapi
+    url: https://admin.linceo.today
+  # - name: Test for HEAD
+  #   method: HEAD
+  #   url: https://www.google.com
+  # - name: Secret Site
+  #   url: $SECRET_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
