@@ -96,54 +96,60 @@
     "url": "https://nexsora.eightfold.cloud",
     "icon": "https://favicons.githubusercontent.com/nexsora.eightfold.cloud",
     "slug": "nexsora-strapi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 272,
-    "timeDay": 232,
-    "timeWeek": 212,
-    "timeMonth": 233,
-    "timeYear": 272,
-    "dailyMinutesDown": {}
+    "time": 271,
+    "timeDay": 213,
+    "timeWeek": 210,
+    "timeMonth": 231,
+    "timeYear": 271,
+    "dailyMinutesDown": {
+      "2021-04-27": 0
+    }
   },
   {
     "name": "Raptect Strapi",
     "url": "https://raptect.eightfold.cloud",
     "icon": "https://favicons.githubusercontent.com/raptect.eightfold.cloud",
     "slug": "raptect-strapi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 281,
-    "timeDay": 267,
-    "timeWeek": 215,
-    "timeMonth": 232,
-    "timeYear": 281,
-    "dailyMinutesDown": {}
+    "time": 280,
+    "timeDay": 212,
+    "timeWeek": 207,
+    "timeMonth": 230,
+    "timeYear": 280,
+    "dailyMinutesDown": {
+      "2021-04-27": 0
+    }
   },
   {
     "name": "Nexprotek Strapi",
     "url": "https://nexprotek.eightfold.cloud",
     "icon": "https://favicons.githubusercontent.com/nexprotek.eightfold.cloud",
     "slug": "nexprotek-strapi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 270,
-    "timeDay": 244,
-    "timeWeek": 213,
-    "timeMonth": 242,
-    "timeYear": 270,
-    "dailyMinutesDown": {}
+    "time": 269,
+    "timeDay": 203,
+    "timeWeek": 207,
+    "timeMonth": 240,
+    "timeYear": 269,
+    "dailyMinutesDown": {
+      "2021-04-27": 0
+    }
   },
   {
     "name": "Linceo Today",
@@ -168,17 +174,19 @@
     "url": "https://admin.linceo.today",
     "icon": "https://favicons.githubusercontent.com/admin.linceo.today",
     "slug": "linceo-today-strapi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 272,
-    "timeDay": 251,
-    "timeWeek": 209,
-    "timeMonth": 228,
-    "timeYear": 272,
-    "dailyMinutesDown": {}
+    "time": 271,
+    "timeDay": 204,
+    "timeWeek": 203,
+    "timeMonth": 226,
+    "timeYear": 271,
+    "dailyMinutesDown": {
+      "2021-04-27": 0
+    }
   }
 ]
